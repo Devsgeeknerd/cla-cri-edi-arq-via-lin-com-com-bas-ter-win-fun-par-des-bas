@@ -5,6 +5,7 @@
 - [ ] HTML e CSS.
 - [ ] HTML5 e CSS3.
 - [ ] Git e GitHub.
+- [ ] JavaScript — Básico.
 
 ## INFORMAÇÕES
 
