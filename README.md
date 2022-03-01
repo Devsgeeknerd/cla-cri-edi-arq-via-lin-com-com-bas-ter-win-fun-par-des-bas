@@ -3,9 +3,9 @@
 
 ***Módulos:***
 
-- [ ] [HTML e CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para as Aulas")
-<!-- - [ ] HTML5 e CSS3. -->
-<!-- - [ ] Git e GitHub. -->
+- [ ] [HTML & CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para as Aulas")
+<!-- - [ ] HTML5 & CSS3. -->
+<!-- - [ ] Git & GitHub. -->
 <!-- - [ ] JavaScript — Básico. -->
 <!-- - [ ] JavaScript — Intermediário. -->
 <!-- - [ ] JavaScript — Avançado. -->
@@ -25,7 +25,7 @@
 <!-- - [ ] PWA. -->
 <!-- - [ ] TypeScript. -->
 <!-- - [ ] GraphQL. -->
-<!-- - [ ] Canvas e SVG. -->
+<!-- - [ ] Canvas & SVG. -->
 <!-- - [ ] User Interface (UI). -->
 <!-- - [ ] User Experience (UX). -->
 <!-- - [ ] Conceitos de Design. -->
