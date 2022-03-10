@@ -33,7 +33,7 @@
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
-<!-- - [Vista por cima](#vista-por-cima) -->
+<!-- * [Vista por cima](#vista-por-cima) -->
 <!--  - [Foto da tela](#foto-da-tela) -->
 <!--  - [Links](#links) -->
 <!-- - [Meu processo](#meu-processo) -->
@@ -91,4 +91,3 @@
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/front-end-zp-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/front-end-zp-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
-
