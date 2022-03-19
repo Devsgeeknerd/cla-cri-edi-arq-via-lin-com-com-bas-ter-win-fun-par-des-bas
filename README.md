@@ -4,6 +4,7 @@
 ***Módulos:***
 
 * [ ] [HTML & CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para as Aulas")
+* [ ] HTML 5 & CSS 3.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
