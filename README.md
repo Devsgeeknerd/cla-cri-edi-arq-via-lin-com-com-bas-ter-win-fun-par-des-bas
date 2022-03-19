@@ -18,6 +18,7 @@
 * [ ] WEBPACK.
 * [ ] GULP.
 * [ ] REACT.JS.
+* [ ] REDUX.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
