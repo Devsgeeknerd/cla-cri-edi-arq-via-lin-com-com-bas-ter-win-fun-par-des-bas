@@ -8,7 +8,7 @@
 <!-- * [ ] VERSIONAMENTO DE CÓDIGO. -->
 <!-- * [ ] JAVASCRIPT — BÁSICO. -->
 <!-- * [ ] JAVASCRIPT — INTERMEDIARIO. -->
-* [ ] JAVASCRIPT — AVANÇADO.
+<!-- * [ ] JAVASCRIPT — AVANÇADO. -->
 * [ ] JQUERY.
 * [ ] BOOTSTRAP 4.
 * [ ] ECMASCRIPT 6+ (ES6+).
