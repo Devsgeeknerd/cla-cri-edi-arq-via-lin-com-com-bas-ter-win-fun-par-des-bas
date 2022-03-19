@@ -16,6 +16,7 @@
 * [ ] ARQUITETURA CSS (BEM).
 * [ ] SASS.
 * [ ] WEBPACK.
+* [ ] GULP.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
