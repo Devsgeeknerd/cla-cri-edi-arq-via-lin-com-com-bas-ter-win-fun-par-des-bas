@@ -7,7 +7,7 @@
 <!-- * [ ] HTML 5 & CSS 3. -->
 <!-- * [ ] VERSIONAMENTO DE CÓDIGO. -->
 <!-- * [ ] JAVASCRIPT — BÁSICO. -->
-* [ ] JAVASCRIPT — INTERMEDIARIO.
+<!-- * [ ] JAVASCRIPT — INTERMEDIARIO. -->
 * [ ] JAVASCRIPT — AVANÇADO.
 * [ ] JQUERY.
 * [ ] BOOTSTRAP 4.
