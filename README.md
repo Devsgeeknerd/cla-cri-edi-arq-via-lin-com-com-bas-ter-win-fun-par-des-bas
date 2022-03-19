@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # FRONT-END — DO ZERO AO PROFISSIONAL
 
-***Módulos:***
+***Conteúdo:***
 
 * [ ] [HTML & CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para as Aulas")
 * [ ] HTML 5 & CSS 3.
