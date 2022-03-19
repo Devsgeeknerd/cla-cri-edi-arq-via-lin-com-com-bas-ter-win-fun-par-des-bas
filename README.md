@@ -3,8 +3,7 @@
 
 ***Módulos:***
 
-- [ ] [HTML & CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para as Aulas")
-
+* [ ] [HTML & CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para as Aulas")
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
