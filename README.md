@@ -9,7 +9,7 @@
 <!-- * [ ] JAVASCRIPT — BÁSICO. -->
 <!-- * [ ] JAVASCRIPT — INTERMEDIARIO. -->
 <!-- * [ ] JAVASCRIPT — AVANÇADO. -->
-* [ ] JQUERY.
+<!-- * [ ] JQUERY. -->
 * [ ] BOOTSTRAP 4.
 * [ ] ECMASCRIPT 6+ (ES6+).
 * [ ] PACKAGE MANAGERS.
