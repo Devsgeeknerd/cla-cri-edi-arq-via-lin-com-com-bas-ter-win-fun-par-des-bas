@@ -17,6 +17,7 @@
 * [ ] SASS.
 * [ ] WEBPACK.
 * [ ] GULP.
+* [ ] REACT.JS.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
