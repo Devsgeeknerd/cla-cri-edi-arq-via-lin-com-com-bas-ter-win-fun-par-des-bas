@@ -4,31 +4,7 @@
 ***Módulos:***
 
 - [ ] [HTML & CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para as Aulas")
-<!-- - [ ] HTML5 & CSS3. -->
-<!-- - [ ] Git & GitHub. -->
-<!-- - [ ] JavaScript — Básico. -->
-<!-- - [ ] JavaScript — Intermediário. -->
-<!-- - [ ] JavaScript — Avançado. -->
-<!-- - [ ] jQuery. -->
-<!-- - [ ] Bootstrap 4. -->
-<!-- - [ ] ECMAScript 6+ (ES6+). -->
-<!-- - [ ] Package Managers (NPM e Yarn). -->
-<!-- - [ ] Arquitetura de CSS (BEM). -->
-<!-- - [ ] Sass. -->
-<!-- - [ ] Webpack. -->
-<!-- - [ ] Gulp. -->
-<!-- - [ ] React.js. -->
-<!-- - [ ] Redux. -->
-<!-- - [ ] Projeto — Devsolx (React.js). -->
-<!-- - [ ] Vue.js. -->
-<!-- - [ ] Angular 9. -->
-<!-- - [ ] PWA. -->
-<!-- - [ ] TypeScript. -->
-<!-- - [ ] GraphQL. -->
-<!-- - [ ] Canvas & SVG. -->
-<!-- - [ ] User Interface (UI). -->
-<!-- - [ ] User Experience (UX). -->
-<!-- - [ ] Conceitos de Design. -->
+
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
