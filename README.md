@@ -15,7 +15,7 @@
 <!-- * [ ] PACKAGE MANAGERS. -->
 <!-- * [ ] ARQUITETURA CSS (BEM). -->
 <!-- * [ ] SASS. -->
-* [ ] WEBPACK.
+<!-- * [ ] WEBPACK. -->
 * [ ] GULP.
 * [ ] REACT.JS.
 * [ ] REDUX.
