@@ -17,7 +17,7 @@
 <!-- * [ ] SASS. -->
 <!-- * [ ] WEBPACK. -->
 <!-- * [ ] GULP. -->
-* [ ] REACT.JS.
+<!-- * [ ] REACT.JS. -->
 * [ ] REDUX.
 * [ ] PROJETO — OLX (React.js).
 
