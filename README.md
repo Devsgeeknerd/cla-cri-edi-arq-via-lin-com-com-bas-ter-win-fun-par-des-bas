@@ -10,7 +10,7 @@
 <!-- * [ ] JAVASCRIPT — INTERMEDIARIO. -->
 <!-- * [ ] JAVASCRIPT — AVANÇADO. -->
 <!-- * [ ] JQUERY. -->
-* [ ] BOOTSTRAP 4.
+<!-- * [ ] BOOTSTRAP 4. -->
 * [ ] ECMASCRIPT 6+ (ES6+).
 * [ ] PACKAGE MANAGERS.
 * [ ] ARQUITETURA CSS (BEM).
