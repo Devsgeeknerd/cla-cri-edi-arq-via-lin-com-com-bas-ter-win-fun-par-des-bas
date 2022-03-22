@@ -13,7 +13,7 @@
 <!-- * [ ] BOOTSTRAP 4. -->
 <!-- * [ ] ECMASCRIPT 6+ (ES6+). -->
 <!-- * [ ] PACKAGE MANAGERS. -->
-* [ ] ARQUITETURA CSS (BEM).
+<!-- * [ ] ARQUITETURA CSS (BEM). -->
 * [ ] SASS.
 * [ ] WEBPACK.
 * [ ] GULP.
