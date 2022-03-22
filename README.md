@@ -12,7 +12,7 @@
 <!-- * [ ] JQUERY. -->
 <!-- * [ ] BOOTSTRAP 4. -->
 <!-- * [ ] ECMASCRIPT 6+ (ES6+). -->
-* [ ] PACKAGE MANAGERS.
+<!-- * [ ] PACKAGE MANAGERS. -->
 * [ ] ARQUITETURA CSS (BEM).
 * [ ] SASS.
 * [ ] WEBPACK.
