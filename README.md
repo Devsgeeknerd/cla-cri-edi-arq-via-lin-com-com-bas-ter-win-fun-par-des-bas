@@ -11,7 +11,7 @@
 <!-- * [ ] JAVASCRIPT — AVANÇADO. -->
 <!-- * [ ] JQUERY. -->
 <!-- * [ ] BOOTSTRAP 4. -->
-* [ ] ECMASCRIPT 6+ (ES6+).
+<!-- * [ ] ECMASCRIPT 6+ (ES6+). -->
 * [ ] PACKAGE MANAGERS.
 * [ ] ARQUITETURA CSS (BEM).
 * [ ] SASS.
