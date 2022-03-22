@@ -16,7 +16,7 @@
 <!-- * [ ] ARQUITETURA CSS (BEM). -->
 <!-- * [ ] SASS. -->
 <!-- * [ ] WEBPACK. -->
-* [ ] GULP.
+<!-- * [ ] GULP. -->
 * [ ] REACT.JS.
 * [ ] REDUX.
 * [ ] PROJETO — OLX (React.js).
