@@ -18,7 +18,7 @@
 <!-- * [ ] WEBPACK. -->
 <!-- * [ ] GULP. -->
 <!-- * [ ] REACT.JS. -->
-* [ ] REDUX.
+<!-- * [ ] REDUX. -->
 * [ ] PROJETO — OLX (React.js).
 
 <!-- TABLE OF CONTENTS -->
