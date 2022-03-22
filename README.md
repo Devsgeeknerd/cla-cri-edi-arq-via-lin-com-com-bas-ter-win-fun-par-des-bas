@@ -19,7 +19,7 @@
 <!-- * [ ] GULP. -->
 <!-- * [ ] REACT.JS. -->
 <!-- * [ ] REDUX. -->
-* [ ] PROJETO — OLX (React.js).
+<!-- * [ ] PROJETO — OLX (React.js). -->
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
