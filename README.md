@@ -14,7 +14,7 @@
 <!-- * [ ] ECMASCRIPT 6+ (ES6+). -->
 <!-- * [ ] PACKAGE MANAGERS. -->
 <!-- * [ ] ARQUITETURA CSS (BEM). -->
-* [ ] SASS.
+<!-- * [ ] SASS. -->
 * [ ] WEBPACK.
 * [ ] GULP.
 * [ ] REACT.JS.
