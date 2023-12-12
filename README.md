@@ -1,84 +1,23 @@
-<!-- TITLE -->
-# FRONT-END — DO ZERO AO PROFISSIONAL
+<!-- Título -->
+# Criando e Editando Arquivos Via Linha de Comandos
 
-***Conteúdo:***
+***Conteúdo da Aula:***
 
-* [x] [HTML & CSS.](https://github.com/Devsgeeknerd/html-e-css-zp "Ir Para o Conteúdo")
-* [ ] [HTML 5 & CSS 3.](https://github.com/Devsgeeknerd/html5-e-css3-zp "Ir Para o Conteúdo")
-<!-- * [ ] VERSIONAMENTO DE CÓDIGO. -->
-<!-- * [ ] JAVASCRIPT — BÁSICO. -->
-<!-- * [ ] JAVASCRIPT — INTERMEDIARIO. -->
-<!-- * [ ] JAVASCRIPT — AVANÇADO. -->
-<!-- * [ ] JQUERY. -->
-<!-- * [ ] BOOTSTRAP 4. -->
-<!-- * [ ] ECMASCRIPT 6+ (ES6+). -->
-<!-- * [ ] PACKAGE MANAGERS. -->
-<!-- * [ ] ARQUITETURA CSS (BEM). -->
-<!-- * [ ] SASS. -->
-<!-- * [ ] WEBPACK. -->
-<!-- * [ ] GULP. -->
-<!-- * [ ] REACT.JS. -->
-<!-- * [ ] REDUX. -->
-<!-- * [ ] PROJETO — OLX (React.js). -->
+Aula teórica.
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
-
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Ffront-end-zp-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-cri-edi-arq-via-lin-com-com-bas-ter-win-fun-par-des-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/front-end-zp-full-stack?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-cri-edi-arq-via-lin-com-com-bas-ter-win-fun-par-des-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/front-end-zp-full-stack?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-cri-edi-arq-via-lin-com-com-bas-ter-win-fun-par-des-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/front-end-zp-full-stack?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-cri-edi-arq-via-lin-com-com-bas-ter-win-fun-par-des-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/front-end-zp-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-cri-edi-arq-via-lin-com-com-bas-ter-win-fun-par-des-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/front-end-zp-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-cri-edi-arq-via-lin-com-com-bas-ter-win-fun-par-des-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
